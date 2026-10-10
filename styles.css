@@ -33,3 +33,6 @@ body[data-revahead-page="index"] .hero-art::after {
 body[data-revahead-page="index"] .hero-art .art-top {
   display: none;
 }
+body[data-revahead-page="index"] .hero-art .art-bottom span:first-child {
+  color: var(--gold);
+}
